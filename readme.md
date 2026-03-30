@@ -1,10 +1,6 @@
 <h1 align="center">Hello, I am Rohit Singhal</h1>
 <h2 align="center">College Student at Thapar Institute of Engineering & Technology</h2>
-<p align="center">
-  <a href="https://github.com/rohiitsinghal/">
-    <img src="https://github-readme-stats.vercel.app/api?username=rohiitsinghal&show_icons=true&theme=dark" alt="ROHIT"/>
-  </a>
-</p>
+
 
 ## 🛠️ Skills
 
